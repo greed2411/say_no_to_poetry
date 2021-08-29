@@ -16,7 +16,7 @@ Its [dependency resolution is **shit** slow](https://python-poetry.org/docs/faq/
 
 Use this binary instead,
 
-```
+```bash
 say_no_to_poetry pyproject.toml
 ```
 
@@ -24,7 +24,7 @@ It converts your `pyproject.toml` into a `requirements.txt`.
 
 ### Example usage:
 
-```
+```bash
 ~/demo-sntp$ ls
 hypothetical.pyproject.toml  say_no_to_poetry
 
