@@ -3,9 +3,10 @@
 Did you grow up using just using `pip` or `conda`? Are you being forced to use `poetry` everywhere at work?
 They try to convince you `poetry` just works? You spiraled down into the conclusion that `poetry` is better than `pip`?
 
-
-<iframe src="https://giphy.com/embed/LAKIIRqtM1dqE" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/giphyqa-LAKIIRqtM1dqE">via GIPHY</a></p>
-
+<p align="center">
+<img src="https://media.giphy.com/media/LAKIIRqtM1dqE/giphy.gif?cid=ecf05e47mz6fgu03nmvmarvv9kj9vap8itua6ccy2vwkbh0k&rid=giphy.gif&ct=g" 
+     width="480" height="358">
+</p>
 
 Its [dependency resolution is **shit** slow](https://python-poetry.org/docs/faq/#why-is-the-dependency-resolution-process-slow). If one of the package fails to install (yes looking at you uwsgi), `poetry` starts screaming like kid (printing out errors, which requires additional sheets), further won't install any of the other packages.
 
@@ -81,10 +82,6 @@ docopt>=0.6.2
 pydash>=5.0.2
 
 ```
-
-
-
-
 
 ## Caveats
 
