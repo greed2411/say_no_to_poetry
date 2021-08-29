@@ -1,6 +1,6 @@
 # Say No To Poetry
 
-Did you grow up using just using `pip` or `conda`? Are you being forced to use `poetry` everywhere at work?
+Did you grow up using just `pip` or `conda`? Are you being forced to use `poetry` everywhere at work?
 They try to convince you `poetry` just works? You spiraled down into the conclusion that `poetry` is better than `pip`?
 
 <p align="center">
